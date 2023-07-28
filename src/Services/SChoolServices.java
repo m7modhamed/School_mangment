@@ -14,7 +14,7 @@ import schoolmanagement.Teacher;
  *
  * @author m7mod
  */
-public class SChoolServices {
+public class SChoolServices extends object{
     School school;
 
     public SChoolServices(School school) {
